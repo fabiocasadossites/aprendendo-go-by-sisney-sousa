@@ -15,3 +15,5 @@
 - 05 Operacões matemáticas
 - 06 Operacões booleanas
 - 07 Condicões lógicas
+
+Aguarando o professor lançar novas aulas...
